@@ -1,3 +1,4 @@
+![logo](https://github.com/MAwais-dev5/MAwais-dev5/blob/main/Aw.png)
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 <h3 align="center">A passionate Computer Scientist from Pakistan</h3>
 <img align="right" alt="coding" width="400" src=""https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fhacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F&psig=AOvVaw3dQyCin35xLSUq-iW-Tk_g&ust=1738687756644000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIj6jvb6p4sDFQAAAAAdAAAAABAE>
